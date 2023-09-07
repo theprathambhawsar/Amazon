@@ -3,6 +3,13 @@
     .nav-add{
         display: none;
     }
+    .search-select{
+        display: none;
+    }
+    .nav-search{
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
     .sign-in{
         display: none;
     }

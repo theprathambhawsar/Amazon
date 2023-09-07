@@ -1,0 +1,115 @@
+
+@media only screen and  (max-width: 768px){
+    .nav-add{
+        display: none;
+    }
+    .sign-in{
+        display: none;
+    }
+    .country i{
+        display: none;
+    }
+    .language{
+        display: none;
+    }
+    .return{
+        display: none;
+    }
+    .cart{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .all-panel{
+        display: none;
+    }
+    .option-panel{
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .last-panel{
+        display: none;
+    }
+    .hero-section{
+        height: 275px;
+    }
+    .hero-message{
+        width: 80%;
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .box{
+        width: 80%;
+        height: 600px;
+    }
+    .box1-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box2-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box3-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box4-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box5-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box6-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box7-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box8-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box9-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box10-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box11-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box12-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box13-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box14-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box15-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .box16-img{
+        height: 480px;
+        background-size: cover;
+    }
+    .navFooterLine{
+        display: none;
+    }
+}

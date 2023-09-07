@@ -40,6 +40,7 @@
     }
     .hero-section{
         height: 275px;
+        width: 100%;
     }
     .hero-message{
         width: 80%;

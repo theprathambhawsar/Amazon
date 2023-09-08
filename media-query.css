@@ -52,6 +52,9 @@
         color: white;
         padding: 5px;
     }
+    .hero-message a{
+        color: white;
+    }
     .shoping-section{
         background:linear-gradient(#dbecd9,#e3e6e6);
     }

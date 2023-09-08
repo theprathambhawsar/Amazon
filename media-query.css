@@ -40,7 +40,7 @@
     }
     .hero-section{
         height: 275px;
-        width: 100%;
+        background-image: url(https://i.postimg.cc/1t3DdhN2/herro.jpg);
     }
     .hero-message{
         width: 80%;
@@ -48,6 +48,9 @@
         display: flex;
         flex-direction: column;
         text-align: center;
+    }
+    .shoping-section{
+        background:linear-gradient(#dbecd9,#e3e6e6);
     }
     .box{
         width: 40%;

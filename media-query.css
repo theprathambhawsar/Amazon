@@ -6,7 +6,7 @@
     .search-select{
         display: none;
     }
-    .nav-search{
+    .search-input   {
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
     }
@@ -50,80 +50,18 @@
         text-align: center;
     }
     .box{
-        width: 80%;
-        height: 600px;
+        width: 40%;
     }
-    .box1-img{
-        height: 480px;
-        background-size: cover;
+    h2{
+        font-size: 1.25rem;
     }
-    .box2-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box3-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box4-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box5-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box6-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box7-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box8-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box9-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box10-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box11-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box12-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box13-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box14-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box15-img{
-        height: 480px;
-        background-size: cover;
-    }
-    .box16-img{
-        height: 480px;
-        background-size: cover;
+    .footer2{
+        height: 225px;
     }
     .navFooterLine{
         display: none;
     }
     .ul1{
-        display: none;
-    }
-    .ul2{
         display: none;
     }
 }

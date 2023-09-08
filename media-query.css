@@ -51,9 +51,13 @@
     }
     .box{
         width: 40%;
+        height: 275px;
     }
     h2{
         font-size: 1.25rem;
+    }
+    .shop-img{
+        height: 150px;
     }
     .footer2{
         height: 225px;

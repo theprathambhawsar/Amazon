@@ -48,6 +48,9 @@
         display: flex;
         flex-direction: column;
         text-align: center;
+        background-color: #222f3d;
+        color: white;
+        padding: 5px;
     }
     .shoping-section{
         background:linear-gradient(#dbecd9,#e3e6e6);
